@@ -1,4 +1,4 @@
-# 🛡️ Politica de Confidențialitate CareerFlow
+
 
 > **Promisiunea noastră:** Colectăm doar ce este strict necesar pentru ca aplicația să funcționeze perfect. Nu vindem datele tale și nu te urmărim abuziv.
 

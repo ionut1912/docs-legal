@@ -1,6 +1,3 @@
-# ⚖️ Termeni și Condiții CareerFlow
-
-*Ultima actualizare: Februarie 2026*
 
 ---
 
