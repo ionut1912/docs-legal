@@ -37,4 +37,10 @@ Dacă alegi un abonament **Premium**:
 * **📄 Acces:** Poți descărca certificatele obținute oricând dorești direct din aplicație.
 
 ---
-*Ultima actualizare: Februarie 2026*
+
+### 5. Contact 📧
+
+Dacă ai întrebări sau nelămuriri, suntem la un e-mail distanță:
+👉 [contact@carerflow-api.ro](mailto:contact@carerflow-api.ro)
+
+---

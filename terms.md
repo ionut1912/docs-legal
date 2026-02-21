@@ -1,3 +1,4 @@
+> **Angajamentul nostru:** Ne dorim ca învățarea să fie simplă, corectă și accesibilă. Aceste reguli de utilizare sunt create pur și simplu pentru a asigura un mediu sigur pentru tine și pentru a proteja calitatea cursurilor pe care ți le oferim.
 
 ---
 
