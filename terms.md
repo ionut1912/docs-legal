@@ -4,7 +4,7 @@
 
 ---
 
-### 1. Utilizarea Serviciuluihttps://github.com/ionut1912/CareerFlow
+### 1. Utilizarea Serviciului CareerFlow
 
 * **🔞 Vârsta:** Trebuie să ai cel puțin **13 ani** pentru a folosi aplicația.
 * **🔐 Responsabilitate:** Ești singurul responsabil pentru activitatea din contul tău. **Nu împărți parola cu nimeni.**
