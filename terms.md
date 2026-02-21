@@ -6,7 +6,6 @@
 
 ### 1. Utilizarea Serviciului CareerFlow
 
-* **🔞 Vârsta:** Trebuie să ai cel puțin **13 ani** pentru a folosi aplicația.
 * **🔐 Responsabilitate:** Ești singurul responsabil pentru activitatea din contul tău. **Nu împărți parola cu nimeni.**
 * **🤖 Mentorul AI:** Tehnologia AI este avansată, dar nu infailibilă. Folosește informațiile oferite ca suport pentru studiu, nu ca adevăr absolut.
 
