@@ -10,7 +10,6 @@
 * **🏆 Performanța ta:** Rezultatele la quiz-uri și examene. Le folosim pentru a-ți genera certificatul final de absolvire.
 * **💻 Date tehnice:** Adresa IP și modelul telefonului. Ne ajută să blocăm atacurile cibernetice și să reparăm rapid erorile (crash-urile).
 * **📺 Publicitate:** Folosim identificatori de mobil pentru a-ți afișa reclame video (**Rewarded Ads**) doar atunci când alegi tu să deblochezi resurse extra.
-
 ---
 
 ### 2. Plăți și Siguranță 💳
